@@ -13,6 +13,7 @@
 		D6592B2926B19D0400E7DFC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6592B2726B19D0400E7DFC1 /* Main.storyboard */; };
 		D6592B2B26B19D0500E7DFC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6592B2A26B19D0500E7DFC1 /* Assets.xcassets */; };
 		D6592B2E26B19D0500E7DFC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6592B2C26B19D0500E7DFC1 /* LaunchScreen.storyboard */; };
+		D6592C0A26B1A6F800E7DFC1 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6592C0926B1A6F800E7DFC1 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D6592B2A26B19D0500E7DFC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6592B2D26B19D0500E7DFC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6592B2F26B19D0500E7DFC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6592C0926B1A6F800E7DFC1 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D6592B2126B19D0400E7DFC1 /* AppDelegate.swift */,
 				D6592B2326B19D0400E7DFC1 /* SceneDelegate.swift */,
 				D6592B2526B19D0400E7DFC1 /* ViewController.swift */,
+				D6592C0926B1A6F800E7DFC1 /* DetailsViewController.swift */,
 				D6592B2726B19D0400E7DFC1 /* Main.storyboard */,
 				D6592B2A26B19D0500E7DFC1 /* Assets.xcassets */,
 				D6592B2C26B19D0500E7DFC1 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				D6592B2626B19D0400E7DFC1 /* ViewController.swift in Sources */,
 				D6592B2226B19D0400E7DFC1 /* AppDelegate.swift in Sources */,
 				D6592B2426B19D0400E7DFC1 /* SceneDelegate.swift in Sources */,
+				D6592C0A26B1A6F800E7DFC1 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
